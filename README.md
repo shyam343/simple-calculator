@@ -1,7 +1,7 @@
 ### Simple Calculator
 ![image](https://github.com/user-attachments/assets/3d2afac9-cc97-47dc-a073-9e17d04ae83a)
 
-## Live Demo :- [sahsimple-calculator.netlify.app](https://sahsimple-calculator.netlify.app/)
+## Live Demo :- [sahcalculator.netlify.app](https://sahcalculator.netlify.app/)
 
 This is a basic calculator application built using Java. It allows users to perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. The application features a simple console-based interface for user interaction.
 
